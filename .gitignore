@@ -1,0 +1,9 @@
+# Streamlit secrets (contém chaves de API e credenciais)
+.streamlit/secrets.toml
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configurações do VS Code
+.vscode/
